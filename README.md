@@ -10,7 +10,6 @@
 [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/Numpy-007EBA?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-# [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![](https://img.shields.io/badge/ONNX-00B2E2?style=for-the-badge&logo=onnx&logoColor=white)](https://onnx.ai)
 [![](https://img.shields.io/badge/TensorFlow-FF4B00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![](https://img.shields.io/badge/Matplotlib-FF7F0E?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)
